@@ -2,7 +2,7 @@ FUTURE PROJECTION — DAY +8
 
 EVENT: Quantum Gateway Activation
 
-Activation Code: QUANTUMLEAP
+Activation Code:QUANTUMLEAP
 
 Status: FAILED
 Reason: Activation code missing
